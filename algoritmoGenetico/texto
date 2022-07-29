@@ -10,6 +10,7 @@ uniforme -> dividi-se os parentes aleatoriamente
 
 Mutação -> apos a cruzamento, o(s) filho(s) gerado(s) terão chance de receber uma mutação em um gene aleatorio
  ou especifico do seu material genetico
+ -nem sempre mutação é algo bom
 Motivo: fugir de solucoes otimas locais
 
 Nova população -> os individuos que irão compor a proxima geração poderão ser somente os filhos gerados da anterior
