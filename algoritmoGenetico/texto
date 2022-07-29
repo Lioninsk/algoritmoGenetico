@@ -2,7 +2,8 @@ Cruzamento -> apos a seleção dos cromossomos, iremos definir como os cromossom
 
 taxa -> se sim reproduz senao replica o material genetico dos pais ou não ocorre etc
 tipos de cruzamento:
-1ponto unico -> dividi-se os parentes em um ponto no qual o material do genetico do filho será o resultado do material genetico do pai até aquele ponto e da mae apos aquele ponto
+1ponto unico -> dividi-se os parentes em um ponto no qual o material do genetico do filho será o resultado do material genetico do pai 
+até aquele ponto e da mae apos aquele ponto
 multiplos pontos -> divide-se os parentes em mais de um ponto
 uniforme -> dividi-se os parentes aleatoriamente
 
