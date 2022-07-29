@@ -1,0 +1,17 @@
+Cruzamento -> apos a seleção dos cromossomos, iremos definir como os cromossomos selecionados irao se reproduzir
+
+taxa -> se sim reproduz senao replica o material genetico dos pais ou não ocorre etc
+tipos de cruzamento:
+1ponto unico -> dividi-se os parentes em um ponto no qual o material do genetico do filho será o resultado do material genetico do pai até aquele ponto e da mae apos aquele ponto
+multiplos pontos -> divide-se os parentes em mais de um ponto
+uniforme -> dividi-se os parentes aleatoriamente
+
+
+Mutação -> apos a cruzamento, o(s) filho(s) gerado(s) terão chance de receber uma mutação em um gene aleatorio
+ ou especifico do seu material genetico
+Motivo: fugir de solucoes otimas locais
+
+Nova população -> os individuos que irão compor a proxima geração poderão ser somente os filhos gerados da anterior
+ou poderão ser os filhos mais os individuos mais adaptados da geração anterior -> elitismo
+-ideal do elitismo é a quantidade de individuos da geração anterior a participar da nova seja baixa para não chegarmos
+a solucoes otimas locais. 
